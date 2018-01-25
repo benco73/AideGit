@@ -9,3 +9,6 @@ git commit -a -m "Nouvelle correction commande commit"
 
 -- Historique
 Git Log
+
+-- Commentaire
+-- Merci pour ce cours très interessant !
