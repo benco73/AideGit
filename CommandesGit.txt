@@ -2,7 +2,7 @@
 git add CommandesGit.txt
 
 -- Commiter
-git commit -m "Ajouté ma checklist-vacances.md (woohoo!)"
+git commit -m "Ajouté CommandesGit.txt"
 
 -- Mise à jur de l'index et commit
 git commit -a -m "Ajouté itinéraire dans checklist-vacances.md"
